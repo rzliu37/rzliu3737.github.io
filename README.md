@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Ruizhe (Rachel) Liu 刘睿喆
 
-You can use the [editor on GitHub](https://github.com/rzliu37/rzliu37.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a PhD candidate in evolutionary anthropology, University og New Mexico.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
