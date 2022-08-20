@@ -9,8 +9,11 @@ As an archaeologiest, I am interested in the human behaviors and technology in p
 ### Education 
 
 2019-      PhD program, Anthropology, University of New Mexico, U.S.
+
 2019-2022  M.S., Anthropology, University of New Mexico, U.S.
+
 2016-2019  M.A., Archaeology, Renmin University of China, China
+
 2012-2016  B.A., Archaeology, Jilin University, Changchun, China
 
 
